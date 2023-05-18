@@ -1,0 +1,13 @@
+.notfound-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: brown;
+  font-size: 24px;
+  font-weight: bold;
+  height: 100px;
+
+}
+.link-button:hover{
+  color: brown;
+}
